@@ -16,9 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![detail.png](..%2F..%2FOneDrive%2FDesktop%2FUploads%2Fdetail.png)
-![detail2.png](..%2F..%2FOneDrive%2FDesktop%2FUploads%2Fdetail2.png)
-![detail3.png](..%2F..%2FOneDrive%2FDesktop%2FUploads%2Fdetail3.png)
-![detail5.png](..%2F..%2FOneDrive%2FDesktop%2FUploads%2Fdetail5.png)
-![facilities.png](..%2F..%2FOneDrive%2FDesktop%2FUploads%2Ffacilities.png)
-![review.png](..%2F..%2FOneDrive%2FDesktop%2FUploads%2Freview.png)
+![detail](https://github.com/user-attachments/assets/d7c1c334-9725-4832-8049-7ae211554f80)
+![detail2](https://github.com/user-attachments/assets/cf37d7c7-54b8-4ac2-9db5-89e5c8e6185a)
+![detail3](https://github.com/user-attachments/assets/08b98104-8080-4b5b-aa7a-68ff0e3cac86)
+![detail5](https://github.com/user-attachments/assets/74bbbfd2-9aed-4526-bfd4-176ef14859e8)
+![facilities](https://github.com/user-attachments/assets/e369a66e-52c5-4375-916a-1e96d7ab8892)
+![review](https://github.com/user-attachments/assets/f18d5c4f-532b-41e2-bdc3-e3328eaf2d4c)
